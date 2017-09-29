@@ -74,7 +74,7 @@ static/*
 !static/.empty
 
 # Others
-palavrato/settings_local.py
-palavrato/settings_production.py
-palavrato/josemarti.wsgi
-palavrato/vhost
+core/settings_local.py
+core/settings_production.py
+core/josemarti.wsgi
+core/vhost
