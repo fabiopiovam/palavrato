@@ -1,5 +1,5 @@
 dj-database-url==0.4.2
--e git://github.com/laborautonomo/dj-la-library-system.git@31bb71b7ad7ceb425904d44f15c8d236482498b2#egg=dj_la_library_system
+-e git://github.com/laborautonomo/dj-la-library-system.git@60d3795c952704b10ee7b60d1561696f0824da31#egg=dj_la_library_system
 dj-static==0.0.6
 Django==1.10.8
 -e git://github.com/laborautonomo/django-la-tags.git@443e2f28cb48ec7742457e450f0aa938c22682c8#egg=django_la_tags
