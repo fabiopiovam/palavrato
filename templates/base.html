@@ -1,5 +1,11 @@
 {% extends "layout_libsys_0.1.0/base.html" %}
 
+{% load staticfiles %}
+
+{% block head_extra %}
+<link rel="stylesheet" type="text/css" href="{% static "library_sys/css/main.css" %}"/>
+{% endblock %}
+
 {% block title %}Início{% endblock %}
 {% block title2 %}PalavrAto{% endblock %}
 {% block site_title %}PalavrAto{% endblock %}
