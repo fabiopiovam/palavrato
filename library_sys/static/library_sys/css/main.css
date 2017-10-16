@@ -1,5 +1,6 @@
 body {
-    background: rgba(0, 0, 0, 0) url("../img/bg.jpg") no-repeat fixed -1px -1px / cover;
+    background: rgba(0, 0, 0, 0.3) url("../img/bg.jpg") no-repeat fixed -1px -1px / cover ;
+    background-blend-mode: multiply;
 }
 
 .title {
@@ -8,4 +9,9 @@ body {
 
 .login {
     margin-top:0;
+}
+
+.logo {
+    margin-top: 15px;
+    width: 315px;
 }
