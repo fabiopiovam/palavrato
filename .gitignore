@@ -76,5 +76,4 @@ static/*
 # Others
 core/settings_local.py
 core/settings_production.py
-core/josemarti.wsgi
 core/vhost
